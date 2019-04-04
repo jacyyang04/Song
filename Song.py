@@ -4,6 +4,7 @@
 def swallowed():
     print "I don't know why she swallowed that fly,"
     print "Perhaps she'll die."
+    print
 
 #prints She swallowed the spider to catch the fly. Executes function swallowed().
 
@@ -33,35 +34,28 @@ def goat():
 
 ################################################################################
 
-print "There was an old lady who swallowed a fly,"
+print "There was an old lady who swallowed a fly."
 swallowed()
-print ""
 
 print "There was an old lady who swallowed a spider,"
 print "That wiggled and iggled and jiggled insider her."
 spider()
-print ""
 
 print "There was an old lady who swallowed a bird,"
 print "How absurd, to swallow a bird."
 bird()
-print ""
 
 print "There was an old lady who swallowed a cat,"
-print "Imagaine that, to swallow a cat,"
+print "Imagine that, to swallow a cat,"
 cat()
-print ""
 
 print "There was an old lady who swallowed a dog,"
 print "What a hog, to swallow a dog,"
 dog()
-print ""
 
 print "There was an old lady who swallowed a goat"
 print "Wrapped in a coat, she swallowed a goat, "
 goat()
-print ""
 
 print "There was an old lady who swallowed a horse,"
 print "She died of course."
-print ""
